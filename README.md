@@ -4,7 +4,7 @@
 
 # Deployed link of the project
 
-> [ManageEngine.com](https://meet-up-clone.netlify.app/)
+> [ManageEngine.com](https://manage-engine.netlify.app/)
 # Technology We Used
 1.HTML
 2. CSS
